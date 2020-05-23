@@ -1,0 +1,46 @@
+Ar 240
+VG-33
+P-39
+P-63
+XP-77
+YFM-1
+B-24
+B-25
+CAC
+C.714
+P-40
+D.520
+194
+Do 215
+Do 335
+XTBD2
+J 22
+G.50
+G.55
+P-75
+Fw 187
+Fw 190
+Ta 152
+Ta 154
+Ta 183
+G.I
+F3F
+F4F
+F6F
+F8F
+Tempest
+Typhoon
+He 100
+He 111
+He 112
+He 162
+He 219
+He 280
+Spiteful
+Myrsky
+F4U
+P-66
+Yak-1
+Yak-3
+Yak-7
+Yak-9
